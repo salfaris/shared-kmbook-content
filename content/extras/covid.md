@@ -23,7 +23,7 @@ Based on the UK government website, everyone travelling to the UK must;
 - Book at least one COVID-19 test for after you arrive
 - Provide your contact details by completing the online passenger locator form\*
 - Provide proof of a negative COVID-19 test\* taken in the 3 days before you leave for the UK.
-- Follow the testing and quarantine rules in England (as written in part d. below
+- Follow the testing and quarantine rules in England (as written in part d. below)
 
 ## What do I need to do upon arrival in England? Do I need to be quarantined?
 
@@ -44,6 +44,6 @@ The UK government provides a free rapid test for COVID-19 that you can order onl
 
 Yes, there is. You need to download an app called NHS COVID-19 from the app store or play store. Some shops require you to scan them (very, very rarely).
 
-- For Android users, download the app on the [Google PLay Store](https://play.google.com/store/apps/details?id=uk.nhs.covid19.production)
+- For Android users, download the app on the [Google Play Store](https://play.google.com/store/apps/details?id=uk.nhs.covid19.production)
 
 - For iOS users, download the app on the [App Store](https://apps.apple.com/gb/app/nhs-covid-19/id1520427663)
