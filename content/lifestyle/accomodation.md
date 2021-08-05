@@ -35,7 +35,7 @@ Choose based on these criteria:
 - Landlord – find someone who does not burden your student life if not someone who can ease it.
 
 Small note: Try to avoid East London. But it’s still fine.
-\_(You’ll understand zones better once you’re in London, but if you want, you can try to read this blog)
+\_(You’ll understand zones better once you’re in London, but if you want, you can try to read this [blog](https://evanevanstours.com/blog/a-visitors-guide-to-london-public-transport/))
 
 ## What should I do if I don’t have any UK guarantor if it is requested in the contract?
 

@@ -30,7 +30,9 @@ Check the check-in luggage size and weight for your own ticket. Usually, it's 30
 
 An academic year in the UK usually spans from September to May. ‘Term' is just another word for semester. Typically there are 3 terms:
 
--**Autumn Term** : from September to December (Winter Break) -**Spring Term** : from January to March (Easter Break) -**Summer Term** : April to May
+-**Autumn Term** : from September to December (Winter Break) 
+-**Spring Term** : from January to March (Easter Break) 
+-**Summer Term** : April to May
 Dates differ based on your degree course, you should be briefed precisely about the exact dates by your uni during your first week
 
 ## Can I drive in UK?
