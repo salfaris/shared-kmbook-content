@@ -52,7 +52,11 @@ For an outside meal, it can be quite pricey but it really depends on the type of
 
 There are quite a number of halal restaurants such as:
 
--**Malaysian**: Malaysian Hall, Rasa Sayang, Roti King -**Chinese takeout**: Chopstix -**Pizza**: ICCO, Pizza Go Go -**Indian**: Khan’s, Dishoom -**Korean**: Wing Wing, Wingstop
+-**Malaysian**: Malaysian Hall, Rasa Sayang, Roti King 
+-**Chinese takeout**: Chopstix 
+-**Pizza**: ICCO, Pizza Go Go 
+-**Indian**: Khan’s, Dishoom 
+-**Korean**: Wing Wing, Wingstop
 
 For halal groceries, it is not as much as the restaurants but they are still accessible, depending on where you live.
 
