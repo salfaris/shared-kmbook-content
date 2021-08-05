@@ -28,14 +28,13 @@ Try to cap it around £600, with ± 50 monthly per person. It’s better if it i
 
 Choose based on these criteria:
 
-- Distance from your accommodation to campus
+- Distance from your accommodation to campus.
 - Security – certain areas are dodgy and unsafe. You can check crime statistics at https://www.met.police.uk/
-- Price – the further it is from Central London, the cheaper the rent is (hypothetically) (but keep in mind travel price by tube/train would get more expensive as the number of zones increase) \_
+- Price – the further it is from Central London, the cheaper the rent is (hypothetically) (but keep in mind travel price by tube/train would get more expensive as the number of zones increase).
 - Facilities – near to grocery store, tube or bus station.
 - Landlord – find someone who does not burden your student life if not someone who can ease it.
 
-Small note: Try to avoid East London. But it’s still fine.
-\_(You’ll understand zones better once you’re in London, but if you want, you can try to read this [blog](https://evanevanstours.com/blog/a-visitors-guide-to-london-public-transport/))
+Small note: Try to avoid East London. But it’s still fine. (You’ll understand zones better once you’re in London, but if you want, you can try to read this [blog](https://evanevanstours.com/blog/a-visitors-guide-to-london-public-transport/))
 
 ## What should I do if I don’t have any UK guarantor if it is requested in the contract?
 
