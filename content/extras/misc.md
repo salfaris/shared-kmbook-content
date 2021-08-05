@@ -37,8 +37,6 @@ Dates differ based on your degree course, you should be briefed precisely about 
 
 Your Malaysian license allows you to drive in the UK only for 12 months after residency. Afterwards, it's invalid.
 
-Page Break
-
 ## I am concern about changing of skincare products when flying to the UK. May I have some about that, like where can I buy the products?
 
 Like Malaysia, we can buy the products online or offline. Firstly, Boots and Superdrug are the counterparts of Watsons and Guardians in the UK. You can visit the stores or order from their online websites or mobile app. Some brands available there include Cerave, Cetaphil, Olay, Neutrogena, Nivea, La Roche-Posay, Eucerin, Garnier, No7, Simple and many more.
