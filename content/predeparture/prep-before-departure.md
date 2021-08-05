@@ -14,12 +14,9 @@ title: ":date: Pre-departure"
 
 ## What items and food supplies should I bring?
 
-You can refer to this [document](http://tiny.cc/loncheatsheet) from Salman Faris for his personal opinions on this
-
 For food supplies, packing some from Malaysia prevents you from spending too much in the beginning when setting up your kitchen.
 
 If you’re a big Maggi Mi fan, don’t bother bringing a 3-month supply of Maggi noodles; you can find Maggi kari and ayam at some grocery stores here. Save your luggage space for something else. Most asian stores sell a wide variety of authentic asian brand instant noodles.
-You can easily find Indomie here but Mie Sedaap is non-existent. If you like Samyang Carbonara and/or Cheese…..good luck finding it here.
 
 ## I plan to buy electronic devices. Should I buy them in Malaysia or in the UK?
 
@@ -27,7 +24,7 @@ A big fat 'buy from Malaysia'. The UK charges 20% tax (VAT) which is higher than
 
 ## Should I pay for VISA Priority or Premium?
 
-It's a scam. Stay away kids. In odd circumstances, such as you already have a flight date, you may consider paying extra for the priority Visa in hopes that your Visa can be issued quicker.
+You don't to pay for this service. In odd circumstances, such as you already have a flight date, you may consider paying extra for the priority Visa in hopes that your Visa can be issued quicker.
 
 ## For the TB test, do I need to get my X-Ray film?
 
