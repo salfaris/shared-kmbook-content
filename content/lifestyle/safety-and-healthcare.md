@@ -14,4 +14,4 @@ Pay full attention to your surroundings. Pickpocketing happens everywhere. If yo
 
 You can search them online, there are articles about it. Usually, they claimed to be police officers or someone from a taxing company. They might check your bag because they want to check for cocaine because they ‘could’ smell it or ask you to pay for stuff or else you are going to be arrested.
 
-So, what to do? Go to the nearest police station to settle any business. Hypnosis or ‘pukau’ also happened, but all these things are less than common. There is also the “I am lost” scam. Again, we will surely touch on this again when you guys arrive. No worries!
+So, what to do? Go to the nearest police station to settle any business. Hypnosis or _‘pukau’_ also happened, but all these things are less than common. There is also the “I am lost” scam. Again, we will surely touch on this again when you guys arrive. No worries!
