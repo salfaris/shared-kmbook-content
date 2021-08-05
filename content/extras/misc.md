@@ -6,7 +6,11 @@ title: ":boom: Miscellaneous"
 
 VOXI. It offers unlimited data for social media with a data package starting from £10 for 6GB. You can apply online, and they will send it straight to your door (Malaysia, but will be confirmed). Please explore other providers as well, such as Three, BT, and others. Users also are not stuck to any plan by any form of contract, so that means you can change your data plan anytime.
 
-Just a heads up for any prepaid telco users, once you use up all your data for the month, there is no way you can reset to get all the data back for the month. You have no choice but to wait for the next month to come. But you can still purchase additional data. Alternatively, you may opt for telcos with unlimited mobile data and hotspots like Three, but that will cost more (£12 monthly for students).
+<ERROR>
+
+**For prepaid telco users, once you use up all your data for the month, its gone for the month!** There is no way you can reset to get all the data back for the month. You have no choice but to wait for the next month to come. But you can still purchase additional data. Alternatively, you may opt for telcos with unlimited mobile data and hotspots like Three, but that will cost more (£12 monthly for students).
+
+</ERROR>
 
 If you do not have wifi set up yet, 6GB is most likely not enough for you especially if you use it for online class as well so be prepared to spend more on add-ons. But when you’ve settled down, the Voxi plan will be more than enough.
 
@@ -14,8 +18,8 @@ If you do not have wifi set up yet, 6GB is most likely not enough for you especi
 
 There are a few validity plans by different telco companies. Here are some options:
 
-- **TuneTalk** - 365 days validity and 10GB basic internet, which cost RM100
-- **Maxis** - 365 days validity and 500MB internet, which costs RM60
+- **TuneTalk** - 365 days validity and 10GB basic internet, which cost RM100.
+- **Maxis** - 365 days validity and 500MB internet, which costs RM60.
 - **U Mobile** - you can email them to suspend your account. When you want to have it reactivated, email them again and you’ll only need to pay a RM10 fee for that. This can be done while you’re already in the UK, so you won’t have any problem using your number predeparture. You’ll only need to give them your IC copy and finish off any previous bills.
 
 ## What are the entertainments available?
@@ -30,10 +34,10 @@ Check the check-in luggage size and weight for your own ticket. Usually, it's 30
 
 An academic year in the UK usually spans from September to May. ‘Term' is just another word for semester. Typically there are 3 terms:
 
--**Autumn Term** : from September to December (Winter Break) 
--**Spring Term** : from January to March (Easter Break) 
--**Summer Term** : April to May
-Dates differ based on your degree course, you should be briefed precisely about the exact dates by your uni during your first week
+- **Autumn Term** : from September to December (Winter Break).
+- **Spring Term** : from January to March (Easter Break).
+- **Summer Term** : April to May (Summer Break).
+  Dates differ based on your degree course, you should be briefed precisely about the exact dates by your university on their websites or during your induction week.
 
 ## Can I drive in UK?
 
@@ -61,10 +65,10 @@ You can browse your products here:
 
 ## Electric / Gas/ Water bills
 
-Unlike Malaysia, here you can choose your electricity/gas supplier. The rates from each company will differ depending on your location. You can view the comparison [here](https://www.moneysupermarket.com/) when you’re setting up your bills
+Unlike Malaysia, here you can choose your electricity/gas supplier. The rates from each company will differ depending on your location. You can view the comparison [here](https://www.moneysupermarket.com/) when you’re setting up your bills.
 
-When you’re ready, have a read of this thorough [bills 101 article](https://www.splitthebills.co.uk/advice-centre/student-bills-basics/setting-up-your-energy-bills/)
+When you’re ready, have a read of this thorough [bills 101 article](https://www.splitthebills.co.uk/advice-centre/student-bills-basics/setting-up-your-energy-bills/).
 
-However, Thames Water is the only water supplier company for London. Here’s a page to learn more about the water bills but feel free to navigate to their [Help page](https://www.thameswater.co.uk/help/account-and-billing/understand-your-bill) as well for more info
+However, Thames Water is the only water supplier company for London. Here’s a page to learn more about the water bills but feel free to navigate to their [Help page](https://www.thameswater.co.uk/help/account-and-billing/understand-your-bill) as well for more info.
 
 In general, expect your bills (electric/gas, water and internet) to be around £50 per person per month.
