@@ -60,7 +60,3 @@ The MARA allowance for London is £1045.
 Usually, starting from your first February in London (which will be your seventh month here), they will transfer the money to your UK bank account between 21st to 27th January.
 
 **NOTE:** It is important to note that MARA will give you a one-off payment amounting to 6 months worth of allowance (£1045 × 6) together with house deposit allowance (£1425 as of batch 2020), both in MYR, into your Malaysian bank account. This means you have to do the currency exchange by yourself.
-
-## How should I divide my money?
-
-It can start with something as simple as ‘Money Spent’ and ‘Money left’ to a more detailed plan like the one provided in this [spreadsheet](http://tiny.cc/londoncalculator). You can also find price ranges for groceries and concerts. Before opening it, please read the guide below first. Alternatively, you can use the features in Monzo to set & stick to your budget.
