@@ -4,14 +4,14 @@ title: ":pound: Finance"
 
 ## What are the banks available, and which bank should I choose?
 
-Banks that are commonly used among Malaysians students include:
+Banks that are commonly used among Malaysian students include:
 
 - Barclays
 - Lloyds
 - HSBC
 - Santander
 
-It is advisable to choose a bank with a branch near to your accommodation so that bank-related business can be dealt with much more easily. However, this is optional.
+It is advisable to choose a bank with a branch near to your accommodation so that bank-related business can be dealt with much more easily.
 
 ## How do I open a bank account in the UK?
 
@@ -45,7 +45,13 @@ Cashless is the way to go. Your general method will be contactless cards even at
 
 ## I keep hearing about Monzo. What is it?
 
-Monzo is an online bank based in the UK which we highly recommend. You can open your Monzo bank before arriving in London. Is Monzo the only online bank? No, of course. Other online banks include Starling, Revolut and Monease.
+[Monzo](https://monzo.com/) is an online bank based in the UK which we highly recommend. You can open your Monzo bank before arriving in London. 
+
+## Is Monzo the only online bank? 
+No, of course. Other online banks includes:
+- [Starling](https://www.starlingbank.com/)
+- [Revolut](https://www.revolut.com/en-US)
+- [Monese](https://monese.com/gb/en) 
 
 **Tips:** Always be on the lookout for referrals from seniors as you may get awesome perks such as cash vouchers (and sometimes even money!) when you sign up with the referrals given by your seniors. It also helps your seniors as well as they too will receive cool perks.
 
