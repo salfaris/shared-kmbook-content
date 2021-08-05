@@ -51,7 +51,7 @@ Cashless is the way to go. Your general method will be contactless cards even at
 No, of course. Other online banks includes:
 - [Starling](https://www.starlingbank.com/)
 - [Revolut](https://www.revolut.com/en-US)
-- [Monease](https://monese.com/gb/en) 
+- [Monese](https://monese.com/gb/en) 
 
 **Tips:** Always be on the lookout for referrals from seniors as you may get awesome perks such as cash vouchers (and sometimes even money!) when you sign up with the referrals given by your seniors. It also helps your seniors as well as they too will receive cool perks.
 
