@@ -58,5 +58,5 @@ It is recommended to use CityMapper more as it provides more accurate and up-to-
 
 In Londoner’s terms, tube refers to LRT-like transportation which covers only London, and are mostly deep underground. Trains are bigger (like MRT) and cover the UK (like ETS).
 
-I don’t understand how the ‘lines’ in Tube Map work.
-Just like how LRT have Kelana Jaya Line, Ampang Line, Sri Petaling Line. It’s just the same, but different names. You can explore this website. If it will help you guys, we can arrange a video call session to explain the transportation of London.
+## I don’t understand how the ‘lines’ in Tube Map work.
+Just like how LRT have Kelana Jaya Line, Ampang Line, Sri Petaling Line. It’s just the same, but different names. You can explore this [website](https://tfl.gov.uk/maps/track/tube) to learn more about tube maps. Get in touch with a senior if you need someone to explain it to you.
