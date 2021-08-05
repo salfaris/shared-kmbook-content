@@ -22,9 +22,9 @@ If you’re a big Maggi Mi fan, don’t bother bringing a 3-month supply of Magg
 
 A big fat 'buy from Malaysia'. The UK charges 20% tax (VAT) which is higher than Malaysia. When buying electronic devices, try getting a device that offers a warranty that can be applied worldwide. It may help you if your device needs fixing in the future when you are in the UK.
 
-## Should I pay for VISA Priority or Premium?
+## Should I pay for Visa Priority or Premium?
 
-You don't to pay for this service. In odd circumstances, such as you already have a flight date, you may consider paying extra for the priority Visa in hopes that your Visa can be issued quicker.
+It is advisable to not pay for these services. In odd circumstances, such as you already have a flight date, you may consider paying extra for the priority Visa in hopes that your Visa can be issued quicker.
 
 ## For the TB test, do I need to get my X-Ray film?
 
