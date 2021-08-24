@@ -71,4 +71,4 @@ Usually, starting from your first February in London (which will be your seventh
 
 ## How should I spend my money monthly?
 
-A good estimate of how to spend your allowance monthly is given by the budget indicator in the [Allpow](<[https:/](https://salfaris.me/allpow/)>) calculator.
+A good estimate of how to spend your allowance monthly is given by the budget indicator in the [Allpow](https://salfaris.me/allpow/) calculator.
