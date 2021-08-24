@@ -10,7 +10,7 @@ You will pay for the National Health Service (NHS) when you apply for your VISA 
 
 Pay full attention to your surroundings. Pickpocketing happens everywhere. If you carry a bag with you, make sure it's properly closed. In crowded places, if it makes you feel safer, put your bag in front of you. If you wish to put valuable things in your bag, make sure it is placed in hidden or hard-to-access spaces. We will surely touch on this again when you guys arrive. No worries!
 
-## How does scammers scam?
+## How do scammers scam?
 
 You can search them online, there are articles about it. Usually, they claimed to be police officers or someone from a taxing company. They might check your bag because they want to check for cocaine because they ‘could’ smell it or ask you to pay for stuff or else you are going to be arrested.
 

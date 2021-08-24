@@ -36,7 +36,7 @@ Try to cap it around £600, with ±£50 monthly per person. It’s better if it 
 
 It is common for websites to state the rent amount as a weekly rate (as opposed to monthly rate). To convert this into monthly rate, use the following formula:
 
-**Monthly Rent for the House = Weekly Wate \* 52 weeks / 12 months**
+**Monthly Rent for the House = Weekly Rate \* 52 weeks / 12 months**
 
 **Monthly Rent per Person = Monthly Rent for the House / Number of Tenants**
 
@@ -63,7 +63,11 @@ Here are a few things you can do (in order):
 3. Use the guarantor service provided by your university. However, bear in mind that during this pandemic, some university services might be unavailable.
 4. Use guarantor services such as Housing Hand or UKGuarantor.
 
+<Error>
+
 **LAST RESORT:** In the case where you are not able to secure a UK guarantor, you can, as a last resort, opt for a 6-month lump sum payment. But this is NOT advisable at all.
+
+</Error>
 
 ## I found a suitable accommodation but it’s a bit expensive. Is there any way I could get it for a lower budget?
 

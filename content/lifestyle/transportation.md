@@ -24,7 +24,7 @@ Most common transportations include:
 
 <Error>
 
-**Cycling is only recommended to those who are very skilled**. Statistically, there are more bus-cyclist accidents than bus-pedestrians.
+**Cycling is only recommended to those who are confident**. Statistically, there are more bus-cyclist accidents than bus-pedestrians.
 
 </Error>
 
