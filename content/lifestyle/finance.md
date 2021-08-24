@@ -45,13 +45,15 @@ Cashless is the way to go. Your general method will be contactless cards even at
 
 ## I keep hearing about Monzo. What is it?
 
-[Monzo](https://monzo.com/) is an online bank based in the UK which we highly recommend. You can open your Monzo bank before arriving in London. 
+[Monzo](https://monzo.com/) is an online bank based in the UK which we highly recommend. You can open your Monzo bank before arriving in London.
 
-## Is Monzo the only online bank? 
+## Is Monzo the only online bank?
+
 No, of course. Other online banks includes:
+
 - [Starling](https://www.starlingbank.com/)
 - [Revolut](https://www.revolut.com/en-US)
-- [Monese](https://monese.com/gb/en) 
+- [Monese](https://monese.com/gb/en)
 
 **Tips:** Always be on the lookout for referrals from seniors as you may get awesome perks such as cash vouchers (and sometimes even money!) when you sign up with the referrals given by your seniors. It also helps your seniors as well as they too will receive cool perks.
 
@@ -66,3 +68,7 @@ The MARA allowance for London is £1045.
 Usually, starting from your first February in London (which will be your seventh month here), they will transfer the money to your UK bank account between 21st to 27th January.
 
 **NOTE:** It is important to note that MARA will give you a one-off payment amounting to 6 months worth of allowance (£1045 × 6) together with house deposit allowance (£1425 as of batch 2020), both in MYR, into your Malaysian bank account. This means you have to do the currency exchange by yourself.
+
+## How should I spend my money monthly?
+
+A good estimate of how to spend your allowance monthly is given by the budget indicator in the [Allpow](<[https:/](https://salfaris.me/allpow/)>) calculator.
